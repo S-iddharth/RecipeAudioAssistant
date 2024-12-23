@@ -1,0 +1,4 @@
+Title: Morning Sunrise Smoothie
+Instructions: In a blender, combine all of the ingredients and process until smooth.
+Ingredients: ['2 medium carrots, diced', '1 cup fresh or frozen pineapple chunks', '2-inch piece fresh ginger, peeled and roughly chopped', '1 tablespoon coconut oil', '1 teaspoon ground turmeric', 'Juice of 1 lemon', '1 cup water']
+Cleaned Ingredients: ['2 medium carrots, diced', '1 cup fresh or frozen pineapple chunks', '2-inch piece fresh ginger, peeled and roughly chopped', '1 tablespoon coconut oil', '1 teaspoon ground turmeric', 'Juice of 1 lemon', '1 cup water']

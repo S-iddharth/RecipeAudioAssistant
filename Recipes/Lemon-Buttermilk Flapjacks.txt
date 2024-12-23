@@ -1,0 +1,7 @@
+Title: Lemon-Buttermilk Flapjacks
+Instructions: In a medium bowl, whisk together dry mix ingredients. In a large bowl, combine eggs, buttermilk, lemon zest and juice, and whisk to com-bine. Whisk in melted butter.
+Using a spatula or wooden spoon, lightly fold dry mix into the wet ingredients until combined but still lumpy.
+Heat a large griddle or nonstick pan over medium-low heat and add 3/4 cup batter. Cook until pancake is golden brown and the center is cooked, 2 to 3 minutes per side. Repeat with remaining batter.
+Stack 3 pancakes per plate and top with a generous amount of butter. Serve with lots of Maine maple syrup.
+Ingredients: ['4 cups all-purpose flour', '3/4 cup sugar', '2 teaspoons baking soda', '2 teaspoons kosher salt', '1 1/2 teaspoons baking powder', '3 whole eggs, plus 3 egg yolks', '4 cups buttermilk, well shaken', '1 teaspoon grated lemon zest, plus1/4 cup lemon juice', '10 tablespoons unsalted butter, melted, plus more room-temperature butter for serving', 'Pure maple syrup (preferably from Maine), for serving']
+Cleaned Ingredients: ['4 cups all-purpose flour', '3/4 cup sugar', '2 teaspoons baking soda', '2 teaspoons kosher salt', '1 1/2 teaspoons baking powder', '3 whole eggs, plus 3 egg yolks', '4 cups buttermilk, well shaken', '1 teaspoon grated lemon zest, plus1/4 cup lemon juice', '10 tablespoons unsalted butter, melted, plus more room-temperature butter for serving', 'Pure maple syrup (preferably from Maine)', 'for serving']

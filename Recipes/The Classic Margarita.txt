@@ -1,0 +1,4 @@
+Title: The Classic Margarita
+Instructions: Combine tequila, Cointreau, and lime juice in cocktail shaker filled with ice. Moisten rim of Margarita or other cocktail glass with lime juice or water. Holding glass upside down, dip rim into salt. Shake and strain drink into glass and serve.
+Ingredients: ['2 ounces tequila made from 100 percent agave, preferably reposado or blanco', '1 ounce Cointreau', '1 ounce freshly squeezed lime juice', 'Salt for garnish']
+Cleaned Ingredients: ['2 ounces tequila made from 100 percent agave, preferably reposado or blanco', '1 ounce Cointreau', '1 ounce freshly squeezed lime juice', 'Salt for garnish']
