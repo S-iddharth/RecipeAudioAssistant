@@ -1,0 +1,9 @@
+chromadb
+gtts
+langchain
+langchain-community
+sentence-transformers
+streamlit
+transformers
+unstructured
+tokenizers==0.21
