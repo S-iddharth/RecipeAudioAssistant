@@ -1,0 +1,1 @@
+A Streamlit-based application that provides step-by-step cooking guidance with explanations for each step and ingredient substitution suggestions. The app leverages a GPT-2 model for natural language generation and ChromaDB for efficient recipe retrieval.
