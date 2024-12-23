@@ -30,7 +30,7 @@ The Recipe Audio Assistant is a user-friendly web application designed to guide 
 ### Backend:
 - **TensorFlow GPT-2**: For generating instructions and explanations.
 - **ChromaDB**: A vector database used for storing and retrieving recipe data efficiently.
-
+- **GTTS**: Tool for Text to Speech conversion
 ---
 
 ## Installation
@@ -56,16 +56,16 @@ The Recipe Audio Assistant is a user-friendly web application designed to guide 
 ## Usage
 
 1. **Select a Recipe**:
-   - Use the sidebar to choose from available recipes.
+   - Enter Recipe Name to choose from available recipes.
 
 2. **Follow Step-by-Step Instructions**:
-   - View and interact with each step.
+   - View and interact with each step by clicking Get Recipe.
 
-3. **Request Explanations**:
-   - Click the "Explain" button to get detailed guidance for any step.
+3. **Request Audio**:
+   - Click the "Speak Recipe" button to get detailed audio guidance for any step.
 
 4. **Get Substitution Suggestions**:
-   - Use the "Ingredient Substitutions" button for alternative ingredients.
+   - Enter the Ingredient Name and Use the "Get Alternatives" button for alternative ingredients.
 
 ---
 
@@ -73,8 +73,6 @@ The Recipe Audio Assistant is a user-friendly web application designed to guide 
 
 The application can be deployed on Azure using Azure App Service. Ensure the following:
 - All required dependencies are included in your environment.
-- Audio playback is supported if needed for future enhancements.
-
 ---
 
 ## Evaluation
