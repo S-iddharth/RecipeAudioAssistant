@@ -56,7 +56,7 @@ def main():
     query = st.text_input("Enter a dish name to find its recipe:", "")
     if st.button("Find Recipe"):
         try:
-            directory = '/content/sample_data/reci'  # Replace with your recipe directory path
+            directory = 'Recipes'  # Replace with your recipe directory path
             db = initialize_db(directory)
             matching_docs = db.similarity_search(query)
             recipe = matching_docs[0].page_content
