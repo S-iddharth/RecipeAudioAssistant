@@ -1,4 +1,4 @@
-Recipe Audio Assistant
+**Recipe Audio Assistant
 
 Overview
 
@@ -38,7 +38,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/recipe-audio-assistant.git
+git clone [https://github.com/yourusername/recipe-audio-assistant.git](https://github.com/S-iddharth/RecipeAudioAssistant/)
 cd recipe-audio-assistant
 
 Install the required dependencies:
