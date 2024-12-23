@@ -37,7 +37,7 @@ The Recipe Audio Assistant is a user-friendly web application designed to guide 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recipe-audio-assistant.git
+   git clone [https://github.com/yourusername/recipe-audio-assistant.git](https://github.com/S-iddharth/RecipeAudioAssistant)
    cd recipe-audio-assistant
    ```
 
@@ -92,8 +92,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
-
----
-
-## Contact
-For any inquiries or feedback, please reach out to [your-email@example.com].
